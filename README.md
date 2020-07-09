@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I want to do something about go game ✨
+
 <!--
 **ncdlek/ncdlek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
