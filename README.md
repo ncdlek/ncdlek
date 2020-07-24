@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I want to do something about go game ✨
+- I want to do something about the game of go ✨
 
 <!--
 **ncdlek/ncdlek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
