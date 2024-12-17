@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I want to do something about the game of go ✨
+- ✨ My iOS Game Clock App for Go, Chess and similar games: https://apps.apple.com/tr/app/game-clock-pro/id6736820083
+- 🌱 I’m currently learning AI Model training.
 
 <!--
 **ncdlek/ncdlek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
